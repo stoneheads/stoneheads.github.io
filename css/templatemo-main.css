@@ -113,7 +113,7 @@ a:hover {
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
   border-color: black;
-  boder-right: 0;
+  border-right: 0;
 }
 .fixed-side-navbar .nav > li a:hover > span {
   color: black;
@@ -345,9 +345,6 @@ section {
   border: 4px solid #ff7d27;
 }
 
-.tabgroup div {
-}
-
 .tabgroup p {
   background-color: rgba(0, 0, 0, 0.5);
   color: #fff;
@@ -487,9 +484,6 @@ footer em {
 
   .baner-content h1 {
     font-size: 64px;
-  }
-
-  .baner-content em {
   }
 
   .baner-content span {
@@ -747,4 +741,9 @@ body.lb-disable-scrolling {
   cursor: pointer;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
+}
+
+#privacy-policy {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
 }
