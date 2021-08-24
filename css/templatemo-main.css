@@ -757,3 +757,7 @@ body.lb-disable-scrolling {
 .dev-name {
   color: #ff8e43;
 }
+
+.contact-us-title {
+  background-color: rgba(0, 0, 0, 0.5);
+}
